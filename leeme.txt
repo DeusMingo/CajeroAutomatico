@@ -1,0 +1,7 @@
+Banco (v0.1)(Estable):
++Añadida función de registrar usuario 
+
+>Solo se puede compilar si se tiene instalada la librería Jtools (3.5a o Superior)
+>Programado usando el compilador de Pascal en Android
+
+//Todas las funciones Incluyen sistema anti-crash por introducir datos no acordes a un tipo de variable determinada
