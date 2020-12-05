@@ -1,0 +1,14 @@
+Versión Banco (1.0):
+
+>Se sustituyen los placeholders por código funcional
+>Se añade una constante que administra el nombre del banco.
+>Se sustituye el usuario provincial por :
+
+C. I : 28189778
+Pass : melee
+# de cuenta : 01913030
+
+> Se hacen ligeros ajustes a los sistemas previamente establecidos en las versiones anteriores
+> Realizado en el compilador de Pascal de Android
+
+Commit por: Domingo Suarez
