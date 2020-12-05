@@ -1,0 +1,5 @@
+Changelog (V1.1) :
+
+>Arreglada la función de transferencia
+>Realizado usando el compilador de Pascal en Android
+>Esta version no entra en la evaluación (si usted lo considera), sin embargo arreglamos unos errores que presentaba el programa
